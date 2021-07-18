@@ -43,5 +43,5 @@ Each Post contains a header which includes the name of the person who posted tha
 git clone https://github.com/ektak67/Webkriti-Frontend.git
 #
 **Members**<br><br>
-1.Dipti Singh<br>
-2.Ekta Kumari
+1.[Dipti Singh](https://github.com/Dipti1202)<br>
+2.[Ekta Kumari](https://github.com/ektak67)
