@@ -1,6 +1,6 @@
 **PStore**
 <br>
-PStore is social media  website , in which we can post , like picture and also follow other people <br>
+PStore is social media  website , in which we can post , like picture,comment on pictures and also follow other people. <br>
 #
 **Technologies**<br>
 
